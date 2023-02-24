@@ -1,0 +1,5 @@
+trainer=anand
+class=devops
+
+echo trainer is $trainer
+echo clas is $classs
