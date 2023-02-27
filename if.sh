@@ -1,6 +1,6 @@
 a=10
 if [ $a is -eq 10 ]; then
-echo sucess
+ echo sucess
 else
-echo failureaaa
+ echo failur
 fi
